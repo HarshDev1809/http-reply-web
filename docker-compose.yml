@@ -1,0 +1,11 @@
+services:
+  app:
+    build: .
+    container_name: http-reply-web
+    restart: unless-stopped
+    networks:
+      - shared-network
+
+networks:
+  shared-network:
+    external: true

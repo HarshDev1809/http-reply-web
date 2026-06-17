@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://http-reply.vercel.app/sitemap.xml
