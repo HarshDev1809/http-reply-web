@@ -44,7 +44,7 @@ export function Footer() {
       <div className="container mx-auto max-w-3xl px-4 py-8 md:py-12">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="space-y-4">
-            <h3 className="text-lg font-bold">http-reply</h3>
+            <h3 className="text-lg font-bold font-mono tracking-tight">http-reply</h3>
             <p className="text-sm text-muted-foreground">
               A lightweight, flexible Node.js utility for standardizing HTTP responses across your API.
             </p>
