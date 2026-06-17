@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "http-reply | Standardized HTTP responses for Node.js",
     description: "Standardize your Node.js API responses with ease.",
-    url: "https://http-reply.vercel.app", // Adjust if needed
+    url: "https://http-reply.devbydev.in", // Adjust if needed
     siteName: "http-reply",
     locale: "en_US",
     type: "website",
