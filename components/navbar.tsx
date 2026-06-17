@@ -34,6 +34,9 @@ export function Navbar() {
           <Badge variant="secondary" className="font-mono text-[10px] py-0 px-1">
             v1.x
           </Badge>
+          <Badge variant="outline" className="font-mono text-[10px] py-0 px-1 text-muted-foreground border-muted-foreground/20">
+            MIT
+          </Badge>
         </div>
 
         <nav className="hidden md:flex items-center gap-6">
@@ -50,7 +53,7 @@ export function Navbar() {
 
         <div className="flex items-center gap-2">
           <a
-            href="https://github.com/shivam-sharma7/http-reply"
+            href="https://github.com/HarshDev1809/http-reply"
             target="_blank"
             rel="noreferrer"
             className={cn(buttonVariants({ variant: "ghost", size: "icon" }))}

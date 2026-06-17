@@ -28,7 +28,7 @@ export function Hero() {
             Get Started
           </a>
           <a
-            href="https://github.com/shivam-sharma7/http-reply"
+            href="https://github.com/HarshDev1809/http-reply"
             target="_blank"
             rel="noreferrer"
             className={cn(buttonVariants({ size: "lg", variant: "outline" }))}
